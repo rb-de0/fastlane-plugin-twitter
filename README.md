@@ -24,7 +24,7 @@ Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plu
 tweet(
   message: "hogehoge",
   consumer_key: "xxxxxxxxxxxxxxxxx",
-  consumer_secret: "xxxxxxxxxxxxxxxx,
+  consumer_secret: "xxxxxxxxxxxxxxxx",
   access_token: "xxxxxxxxxxxxxxxxx",
   access_token_secret: "xxxxxxxxxxxx"
 )
