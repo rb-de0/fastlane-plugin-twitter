@@ -1,0 +1,9 @@
+lane :test do
+  tweet(
+    message: "hogehoge",
+    consumer_key: "xxxxxxxxxxxxxxxxx",
+    consumer_secret: "xxxxxxxxxxxxxxxx,
+    access_token: "xxxxxxxxxxxxxxxxx",
+    access_token_secret: "xxxxxxxxxxxx"
+  )
+end
