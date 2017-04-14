@@ -30,7 +30,7 @@ tweet(
 )
 ```
 
-Please create authentication information such as consumer_key at (apps.twitter.com)[apps.twitter.com].
+Please create authentication information such as consumer_key at [apps.twitter.com](apps.twitter.com).
 
 
 ## Issues and Feedback
